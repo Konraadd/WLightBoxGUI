@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WLightBoxGUI", "WLightBoxGUI\WLightBoxGUI.csproj", "{5875C737-873A-4E80-A073-E70C9E73A9F9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WlightboxService", "..\BleBox_wlightbox_sampleAPI\BleBox_wlightbox_sampleAPI\WlightboxService.csproj", "{2738A45C-F22B-4CF3-B577-0CC21A3D187C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5875C737-873A-4E80-A073-E70C9E73A9F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5875C737-873A-4E80-A073-E70C9E73A9F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5875C737-873A-4E80-A073-E70C9E73A9F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5875C737-873A-4E80-A073-E70C9E73A9F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2738A45C-F22B-4CF3-B577-0CC21A3D187C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2738A45C-F22B-4CF3-B577-0CC21A3D187C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2738A45C-F22B-4CF3-B577-0CC21A3D187C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2738A45C-F22B-4CF3-B577-0CC21A3D187C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F90212C7-F378-4FF6-B200-89E9BFA7CDB0}
+	EndGlobalSection
+EndGlobal
