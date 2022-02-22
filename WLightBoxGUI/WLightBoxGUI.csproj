@@ -7,8 +7,4 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\..\BleBox_wlightbox_sampleAPI\BleBox_wlightbox_sampleAPI\WlightboxService.csproj" />
-  </ItemGroup>
-
 </Project>
